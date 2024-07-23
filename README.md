@@ -3,7 +3,17 @@
 BeadED Adventures<br>
 <br>
 ## About
-<!-- Required: Include brief prose description of the project and the repository. This description should build on or contextualize the language in your Twine Object, provide concrete contextual information, or describe the possible applications of your Twine or other materials. 100 words is fine, but you’re free to make this as expansive as you wish to help situate readers in your materials and how they might use them. --> 
+<p>BeadED Adventures is an educational, modifiable platform which works with Twine games and uses a custom-made physical controller. We authored a fantasy-based narrative, intended to engage a target audience of young girls, which requires solving a series of puzzles, each based on a foundational principle of computational thinking. Players progress through the game by physically adding colored beads to a string; different bead colors correspond to specific choices within the game. </p>
+
+<p>The interface is intentional in asking players to engage in the physical actions of stringing tangible beads—pulling from research on embodied cognition and reintroducing the tactile element of tabletop games to this digital hybrid. Further, the resulting bracelet or keychain becomes an artifact of their learning, with each bead representing a choice they made within the educational game.</p>
+
+<p>BeadED Adventures was designed in a modular way such that it provides different avenues of engagement and exploration. At the base level, students can interact with the approachable puzzle-based fantasy Twine story, solving computational thinking challenges to finish the game. Beyond this, students may also make their own Twine stories to work with the beading controller, using simple templated code within Twine. This leverages the ways that Twine specifically can spark an interest in narrative writing, computer science, and allow for the players to become authors themselves. </p>
+
+<p>The controller we designed to navigate BeadED Adventures uses a Makey-Makey and can be modified to work with different conductive objects, allowing students to create their own physical controllers for Twine games designed to work with these controllers. </p>
+
+<p>The CSS file pairs text colors with numbers on the keyboard, so the Twine narrative can be navigated by removing and replacing a jar of beads corresponding with the text color on the screen. The jars have conductive paint on the bottom that complete the circuit for the Makey-Makey; breaking and then reconnecting the circuit acts as a button push. Thus, when the player removes the jar of magenta beads to select the choice written in that color and then replaces it, the Makek-Makey translates that to the computer as typing the number 1 on the keyboard. And because the Makey Makey links to keyboard numbers, the game can also be navigated by typing the number mapped to the text color, as well as with a mouse click on the text like most Twine stories. </p>
+
+<p>Enjoy your adventure!</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
