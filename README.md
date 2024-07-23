@@ -1,13 +1,7 @@
 <a id="readme-top"></a>
-
-<!-- This template is in Markdown, so you can copy and paste it directly into the GitHub ReadMe file and use the formatting included here. Here are some instructions on how to create ReadMe.md files in GitHub: https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme -->
-
-<!-- Instructions and examples below are commented out. Please remove the comment markup on your final document. -->
-
-<!-- Feel free to personalize! You can add additional sections, images, logos, or other content as you wish. We ask that you keep the required sections and formatting so that materials are consistent across the collection. --> 
-
-#Title
- 
+#Title<br>
+BeadED Adventures<br>
+<br>
 ##About
 <!-- Required: Include brief prose description of the project and the repository. This description should build on or contextualize the language in your Twine Object, provide concrete contextual information, or describe the possible applications of your Twine or other materials. 100 words is fine, but you’re free to make this as expansive as you wish to help situate readers in your materials and how they might use them. --> 
 
