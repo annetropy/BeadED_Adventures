@@ -48,11 +48,15 @@ BeadED Adventures<br>
 ###License
 
 CC BY-SA 4.0 license inherited from EnTwine collection.<br>
-<br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ###Citation
 
-<!-- If desired, you may add an additional DOI or other citation information for your material. If you do so, please include this DOI in your metadata spreadsheet. Unless you indicate otherwise, all media including repositories will be given a DOI in the Fulcrum Resources repository. --> 
+Sullivan, A. and Johnson, E. (2019). BeadED Adventures: Crafting STEM Learning. Proceedings of the Thirteenth International Conference on Tangible, Embedded, and Embodied Interaction. Tempe, Arizona, March 17-20, 2019.351-358. ACM. https://doi.org/10.1145/3294109.330099
+
+Johnson, E. and Sullivan, A. (2018). BeadED Adventures: Using tangible game artifacts to assist STEM Learning. International Academic Conference on Meaningful Play Proceedings, East Lansing, Michigan, October 12, 2018. ETC Press. https://press.etc.cmu.edu/articles/beaded-adventures
+ 
+Johnson, E.K. and Sullivan, A. (2020). Exploring Tangible Learning Artifacts: The Development of BeadED Adventures. Presented at the Electronic Literature Organization Conference 2020, Orlando, FL.  https://stars.library.ucf.edu/elo2020/asynchronous/talks/7/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -65,9 +69,6 @@ http://www.ekjphd.com<br>
 
 Anne Sullivan - Twitter: @annetropy - Email: unicorn@gatech.edu<br>
 Github: https://github.com/annetropy<br>
-
-##Acknowledgments
-<!-- If desired, list relevant resources you find helpful and would like to give credit to. -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
