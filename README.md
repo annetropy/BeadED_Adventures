@@ -72,4 +72,7 @@ Github: https://github.com/annetropy<br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
- 
+##Acknowledgments
+
+Remapping Your Makey Makey - https://makeymakey.com/pages/remap
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
