@@ -45,8 +45,8 @@ BeadED Adventures<br>
 
 ##Licensing and Citation
 
-###License<br>
-<br>
+###License
+
 CC BY-SA 4.0 license inherited from EnTwine collection.<br>
 <br>
 
