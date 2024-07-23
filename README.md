@@ -51,19 +51,20 @@ CC BY-SA 4.0 license inherited from EnTwine collection.<br>
 <br>
 
 ###Citation
+
 <!-- If desired, you may add an additional DOI or other citation information for your material. If you do so, please include this DOI in your metadata spreadsheet. Unless you indicate otherwise, all media including repositories will be given a DOI in the Fulcrum Resources repository. --> 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ##Contact
-<br>
-###Authors<br>
+
+###Authors
+
 Emily K. Johnson - Twitter: @ekjphd - Email: ekj@ucf.edu<br>
 http://www.ekjphd.com<br>
-<br>
+
 Anne Sullivan - Twitter: @annetropy - Email: unicorn@gatech.edu<br>
 Github: https://github.com/annetropy<br>
-<br>
 
 ##Acknowledgments
 <!-- If desired, list relevant resources you find helpful and would like to give credit to. -->
