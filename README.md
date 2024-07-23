@@ -1,7 +1,6 @@
 <a id="readme-top"></a>
-# Title
-BeadED Adventures<br>
-<br>
+# BeadED Adventures
+
 ## About
 <p>BeadED Adventures is an educational, modifiable platform which works with Twine games and uses a custom-made physical controller. We authored a fantasy-based narrative, intended to engage a target audience of young girls, which requires solving a series of puzzles, each based on a foundational principle of computational thinking. Players progress through the game by physically adding colored beads to a string; different bead colors correspond to specific choices within the game. </p>
 
@@ -18,18 +17,23 @@ BeadED Adventures<br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Files
-<!-- Required: list all files included with brief descriptions -->
+<ul>
+ <li>README.md - this file you're reading right now</li>
+ <li>BeadED Adventuresv3.html - the html file to use with Twine or run in your browser</li>
+ <li>images/ - folder containing images for the html file</li>
+  <ul>
+  <li>courtyard.png - image for the courtyard passage</li>
+   <li>entrance.png - image for the entrance passage</li>
+   <li>forest.png - image for the forest passage</li>
+   <li>papertexture.jpg - background texture for the game</li>
+   <li>statue.png - image for the statue passage</li>
+ </ul>
+</ul>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting Started
 <!-- Give any instructions that readers may need to use your files. -->
-
-### Prerequisites
-<!-- If your files require programs other than Twine, or a specific version of Twine to run, provide instructions here. -->
-
-### Built With
-<!-- If you built files with a program other than Twine, list those programs or link to downloads here. --> 
 
 ### Opening these files
 <!-- Provide any necessary instructions for users to get started. You can assume that readers can download a single file and run it, but you may wish to provide guidance about how to handle certain file types or directories. -->
@@ -38,11 +42,6 @@ BeadED Adventures<br>
 
 <!-- Ex. This Twine is designed for version xyz. To edit this Twine, download version xyz from Twinery.org here: link. Download HTML and IMG files into a single directory and open in the Twine version xyz desktop program. -->
  
-### Additional links 
-<!-- If desired, including your own GitHub repository, a relevant website, or other -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## Usage
 <!-- If desired, use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. How might a reader adapt or deploy this Twine in their classroom? You may also link to more resources, websites, or external documentation. -->
 
