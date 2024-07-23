@@ -45,11 +45,10 @@ BeadED Adventures<br>
 
 ##Licensing and Citation
 
-###License
-<!-- If desired, you may apply your own license to your materials. If so, include a LICENSE.txt file in the root directory of your repository and link to it here. We ask that you consider using open-source licenses like Creative Commons to facilitate readers using and developing your sample resources. Unless you indicate otherwise, all material in EnTwine will be licensed as CC BY-SA 4.0. -->
-
-<!-- Ex. Distributed under the MIT License. See LICENSE.txt for more information. -->
-<!-- Ex. CC BY-SA 4.0 license inherited from EnTwine collection. See [slug provided by editors] for more information. -->
+###License<br>
+<br>
+CC BY-SA 4.0 license inherited from EnTwine collection.<br>
+<br>
 
 ###Citation
 <!-- If desired, you may add an additional DOI or other citation information for your material. If you do so, please include this DOI in your metadata spreadsheet. Unless you indicate otherwise, all media including repositories will be given a DOI in the Fulcrum Resources repository. --> 
@@ -57,11 +56,14 @@ BeadED Adventures<br>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ##Contact
-
-###Authors
-Your Name  - @twitter_handle - email@email_client.com <!-- include desired contact information -->
-Author GitHub Link: https://github.com/github_username/repo_name
-Other links: <!-- include other links as desired -->
+<br>
+###Authors<br>
+Emily K. Johnson - Twitter: @ekjphd - Email: ekj@ucf.edu<br>
+http://www.ekjphd.com<br>
+<br>
+Anne Sullivan - Twitter: @annetropy - Email: unicorn@gatech.edu<br>
+Github: https://github.com/annetropy<br>
+<br>
 
 ##Acknowledgments
 <!-- If desired, list relevant resources you find helpful and would like to give credit to. -->
