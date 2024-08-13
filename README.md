@@ -33,22 +33,11 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting Started
-<!-- Give any instructions that readers may need to use your files. -->
 
 ### Opening these files
-<!-- Provide any necessary instructions for users to get started. You can assume that readers can download a single file and run it, but you may wish to provide guidance about how to handle certain file types or directories. -->
+To open this Twine in a browser, download both the HTML and image folder with all the images inside it. Open the HTML in your browser to run the game.
 
-<!-- Ex. To open this Twine in a browser, download both the HTML and the IMG files into a single directory. -->
-
-<!-- Ex. This Twine is designed for version xyz. To edit this Twine, download version xyz from Twinery.org here: link. Download HTML and IMG files into a single directory and open in the Twine version xyz desktop program. -->
- 
-## Usage
-<!-- If desired, use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. How might a reader adapt or deploy this Twine in their classroom? You may also link to more resources, websites, or external documentation. -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Sharing
-<!-- If desired, invite users to fork and adapt these resources. You may wish to direct them to your own GitHub repository if you plan to update these resources periodically or if you wish to take suggestions from users. -->
+This Twine is designed for version 2.5.1 or later. To edit this Twine, download version 2.5.1 or later from <a href="https://github.com/klembot/twinejs/releases/tag/2.5.1">twinery.org</a>.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
