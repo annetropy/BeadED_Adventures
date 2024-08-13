@@ -73,5 +73,6 @@ Github: https://github.com/annetropy<br>
 ## Acknowledgments
 
 We used this tutorial when working with our Makey Makey and found it quite useful:
+
 Remapping Your Makey Makey - https://makeymakey.com/pages/remap
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
