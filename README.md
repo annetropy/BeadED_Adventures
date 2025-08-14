@@ -65,7 +65,7 @@ Johnson, E.K. and Sullivan, A. (2020). Exploring Tangible Learning Artifacts: Th
 Emily K. Johnson - Twitter: @ekjphd - Email: ekj@ucf.edu<br>
 http://www.ekjphd.com<br>
 
-Anne Sullivan - Twitter: @annetropy - Email: unicorn@gatech.edu<br>
+Anne Sullivan - Twitter: @annetropy - Email: annes@yorku.ca<br>
 Github: https://github.com/annetropy<br>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
