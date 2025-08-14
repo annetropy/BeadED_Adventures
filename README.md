@@ -17,7 +17,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Files
-<ul>
+The original <ul>
  <li>README.md - this file you're reading right now</li>
  <li>BeadED Adventuresv3.html - the html file to use with Twine or run in your browser</li>
  <li>images/ - folder containing images for the html file</li>
@@ -38,6 +38,11 @@
 To open this Twine in a browser, download both the HTML and image folder with all the images inside it. Open the HTML in your browser to run the game.
 
 This Twine is designed for version 2.5.1 or later. To edit this Twine, download version 2.5.1 or later from <a href="https://github.com/klembot/twinejs/releases/tag/2.5.1">twinery.org</a>.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Additional Links
+The original repository can be found here: <a href="https://github.com/annetropy/BeadED_Adventures">https://github.com/annetropy/BeadED_Adventures</a>.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
